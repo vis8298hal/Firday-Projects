@@ -24,9 +24,7 @@ This project progresses through two foundational enterprise AI layers:
 
 ```text
 gemini_triage_starter/
-├── .venv/               # Isolated Python virtual environment
-├── .env                 # Local API credentials (do not commit to Git)
-├── setup.bat            # One-click Windows environment & dependency installer
+├── .env                 # Local API credentials
 ├── run.bat              # One-click Windows execution script
 ├── it_policy.txt        # Synthetic enterprise IT SLA & hardware warranty policy
 ├── easy_triage.py       # Phase 1: Tool calling + Pydantic JSON triage agent

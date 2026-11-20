@@ -1,0 +1,14 @@
+{
+  "EMP-101": {
+    "name": "Rahul Sharma",
+    "device": "MacBook Pro M3",
+    "vpn_status": "Locked",
+    "warranty": "Active"
+  },
+  "EMP-202": {
+    "name": "Ananya Verma",
+    "device": "Dell Latitude",
+    "vpn_status": "Active",
+    "warranty": "Expired"
+  }
+}
