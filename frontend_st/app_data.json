@@ -1,0 +1,57 @@
+{
+      "app_title": "Gemini",
+      "models": ["Gemini 2.5 Flash", "Gemini 2.5 Pro", "GPT-4o"],
+      "suggestions": [
+        "Explain why enterprise teams avoid database lock-in",
+        "Write a Python script to parse complex JSON logs",
+        "Draft a concise executive summary for a legal contract",
+        "Help me debug an API quota visibility issue"
+      ],
+      "chats": [
+        {
+          "id": "chat-1",
+          "title": "Why Enterprise Avoids Database Lock-in",
+          "model": "Gemini 2.5 Pro",
+          "messages": [
+            { "role": "user", "content": "Why do enterprises avoid database lock-in?" },
+            { "role": "assistant", "content": "Enterprises prioritize workload portability, multi-cloud flexibility, and long-term vendor negotiation leverage." }
+          ]
+        },
+        {
+          "id": "chat-2",
+          "title": "Friendly Greeting and Introduction",
+          "model": "Gemini 2.5 Flash",
+          "messages": []
+        },
+        {
+          "id": "chat-3",
+          "title": "Political Justice League Caricature",
+          "model": "Gemini 2.5 Flash",
+          "messages": []
+        },
+        {
+          "id": "chat-4",
+          "title": "According to attached script I wanted to check",
+          "model": "Gemini 2.5 Flash",
+          "messages": []
+        },
+        {
+          "id": "chat-5",
+          "title": "Compute Engine API Quotas Not Visible",
+          "model": "GPT-4o",
+          "messages": []
+        },
+        {
+          "id": "chat-6",
+          "title": "Creating Oracle SQL Users and Privileges",
+          "model": "Gemini 2.5 Flash",
+          "messages": []
+        },
+        {
+          "id": "chat-7",
+          "title": "Document Summary and Key Provisions",
+          "model": "Gemini 2.5 Flash",
+          "messages": []
+        }
+      ]
+    }

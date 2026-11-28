@@ -4,5 +4,17 @@
     "category": "Network",
     "priority": "Medium",
     "recommended_action": "VPN token reset"
+  },
+  {
+    "employee_id": "EMP-101",
+    "category": "Network",
+    "priority": "Medium",
+    "recommended_action": "VPN token reset"
+  },
+  {
+    "employee_id": "EMP-202",
+    "category": "Access",
+    "priority": "Medium",
+    "recommended_action": "VPN token reset"
   }
 ]
